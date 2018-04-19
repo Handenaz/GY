@@ -4968,6 +4968,10 @@ a.badge:focus {
 .jumbotron h1,
 .jumbotron .h1 {
   color: #2f1c26;
+  font-family: monospace;
+ font-style: italic;
+font-weight: bold;
+font-size: 1.2em;
 }
 .jumbotron p {
   margin-bottom: 15px;

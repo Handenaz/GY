@@ -1,8 +1,10 @@
 h1 { color: inherit;
      font-family: monospace;
     font-style: normal;
+
   font-weight: bold;
 font-size: 100px;}
+<<<<<<< HEAD
 
 
 body {
@@ -12,3 +14,13 @@ body {
         background-attachment: fixed;
         background-size: cover;
     }
+=======
+  font-weight: bold;}
+ {
+    padding-top: 90px;
+    min-height: 600px;
+    margin-bottom: 0;
+    background-image: url('images\istanbul-1084458_960_720.jpg');
+    background-size: cover;
+    background-attachment: fixed;}
+>>>>>>> origin/master

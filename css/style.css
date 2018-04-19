@@ -1,26 +1,17 @@
-h1 { color: inherit;
-     font-family: monospace;
+h1 { color: white;
+     font-family:courier ;
     font-style: normal;
 
   font-weight: bold;
-font-size: 100px;}
-<<<<<<< HEAD
+font-size:120px;
+text-align: center;
+}
 
 
 body {
-        background-image: 'images\istanbul-1084458_960_720.jpg';
+        background-image: 'images\marti.jpg';
         background-repeat: no-repeat;
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
     }
-=======
-  font-weight: bold;}
- {
-    padding-top: 90px;
-    min-height: 600px;
-    margin-bottom: 0;
-    background-image: url('images\istanbul-1084458_960_720.jpg');
-    background-size: cover;
-    background-attachment: fixed;}
->>>>>>> origin/master

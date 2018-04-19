@@ -1,15 +1,14 @@
 h1 { color: inherit;
      font-family: monospace;
     font-style: normal;
-
   font-weight: bold;
-font-size: 100px;}
+font-size: 100px;
+}
+body{
 
-
-body {
-        background-image: 'images\istanbul-1084458_960_720.jpg';
-        background-repeat: no-repeat;
-        background-position: center;
-        background-attachment: fixed;
-        background-size: cover;
-    }
+    background-image:'image/istanbul-1084458_960_720'
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  background-position: center;
+}

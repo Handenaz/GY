@@ -1,0 +1,17 @@
+h1 { font-weight: normal;
+ color:inherit;
+ font-family: fantasy;
+font-size: 70px;
+text-align: center;
+    }
+body {background-color: #DCDCDC}
+img { text-align: center;
+width: 400px;
+display: block;
+    margin-left: auto;
+    margin-right: auto;}
+p {font-family: monospace;
+text-align: center;
+font-size: 20px}
+h2 {font-family: monospace;
+text-align: center;}

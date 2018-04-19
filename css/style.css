@@ -1,0 +1,13 @@
+h1 { color: inherit;
+     font-family: monospace;
+    font-style: normal;
+  font-weight: bold;
+font-size: 100px;}
+
+   .jumbotron{
+    padding-top: 90px;
+    min-height: 600px;
+    margin-bottom: 0;
+    background-image:url('istanbul-1084458_960_720');
+    background-size: cover;
+    background-attachment: fixed;}
